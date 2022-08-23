@@ -70,3 +70,7 @@ header {
     border-radius: 0.15rem;
     transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
+
+.margin__top__20 {
+    margin-top: 30px;
+}
